@@ -1,63 +1,29 @@
-# 🌎 Wallu Site
+# 🌎 Wallu — Super‑App (site vitrine)
 
-Site vitrine de la plateforme Wallu de paiement mobile.
+![Wallu Banner](https://raw.githubusercontent.com/Momar-dev/Wallu-site/main/assets/banner.png)
 
----
+**Wallu** est une super‑app mobile de mise en relation clients et prestataires avec intégration d'un assistant IA en temps réel.
 
-## 📝 Description
+🔹 Tech stack : React Native (Expo), Firebase, Cloudinary, Node.js
 
-**Wallu Site** présente:
-- Solution de paiement Wallu
-- Caractéristiques clés
-- Cas d'usage
-- Tarification
-- Témoignages clients
-- Appel à l'action
-- FAQ
+🔹 Ce que fait Wallu :
+- Recherche et matching clients / prestataires
+- Messagerie et notifications en temps réel
+- Paiements et gestion des commandes
+- Assistant IA pour support et recommandations (intégration Google Gemini / OpenAI)
 
----
+## Démo & Live
+- Site vitrine : https://momar-dev.netlify.app/ (section Wallu)
 
-## ✨ Sections
-
-- 🏠 Accueil
-- 💡 Fonctionnalités
-- 💳 Tarification
-- 📞 Témoignages
-- 👥 Équipe
-- 📧 Contact
-- 🐘 Blog
-
----
-
-## 🛠️ Technologies
-
-- HTML5/CSS3
-- JavaScript
-- Bootstrap
-- Font Awesome
-
----
-
-## 🚀 Installation
-
-1. **Cloner**
+## Installation rapide (dev)
 ```bash
 git clone https://github.com/Momar-dev/Wallu-site.git
+# ouvrir index.html ou déployer sur Netlify
 ```
 
-2. **Ouvrir**
-```bash
-open index.html
-```
+## Auteur
+**Momar Diop** — https://github.com/Momar-dev
 
 ---
 
-## 👨‍💻 Auteur
-
-**Momar Diop**
-
-- GitHub: [@Momar-dev](https://github.com/Momar-dev)
-
----
-
-**Découvrez Wallu! 🌎**
+*Suggestion : ajoute une capture d'écran dans `assets/` pour afficher sur le README (je peux le faire pour toi).*
